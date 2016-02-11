@@ -222,7 +222,11 @@ nav ul a {
     color: white;
   }
   nav .brand-logo {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
+  }
+
+  #contact .comm-text {
+    font-size: 1.5rem;
   }
 }
 input, textarea {
